@@ -1,4 +1,4 @@
-# Aplikasi-USU-Mobile-for-Parent
+# USUMobileForParent
 
 Aplikasi USU Mobile for Parent digunakan untuk membantu orangtua dalam memantau jadwal perkuliahan putra-putrinya sekaligus melakukan pengawasan.
 Melalui aplikasi ini, orang tua mahasiswa juga dapat melihat aktifitas mahasiswa dikampus mulai dari nilai mahasiswa, data mahasiswa, info akademik, pembayaran, dan lain-lain.
