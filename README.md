@@ -6,7 +6,7 @@ Melalui aplikasi ini, orang tua mahasiswa juga dapat melihat aktifitas mahasiswa
 
 ## Konfigurasi Software
 
-1. Sistem operasi Android 4.1 (Jelly Bean)
+1. Sistem operasi Android 8.0
 2. Framerowk React-Native
 3. Bahasa Pemrograman Javascript
 
