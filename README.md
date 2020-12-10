@@ -18,3 +18,11 @@ Melalui aplikasi ini, orang tua mahasiswa juga dapat melihat aktifitas mahasiswa
 5. Aida Suryana Ritonga - 171402129
 
 # Desain UI/UX
+
+<img src="images/Splash Screen.jpg" width="300" height="550">
+
+<img src="images/panduan.jpg" width="300" height="550">
+
+<img src="images/welcome.jpg" width="300" height="550">
+
+<img src="images/krs.jpg" width="300" height="550">
