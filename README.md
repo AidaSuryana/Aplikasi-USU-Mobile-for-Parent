@@ -7,7 +7,8 @@ Melalui aplikasi ini, orang tua mahasiswa juga dapat melihat aktifitas mahasiswa
 # Konfigurasi Software
 
 1. Sistem operasi Android 4.1 (Jelly Bean)
-2. Bahasa pemrograman belum tahu
+2. Framerowk React-Native
+3. Bahasa Pemrograman Javascript
 
 # Kelompok
 
@@ -19,10 +20,10 @@ Melalui aplikasi ini, orang tua mahasiswa juga dapat melihat aktifitas mahasiswa
 
 # Desain UI/UX
 
-<img src="images/Splash Screen.jpg" width="300" height="550">
+<img src="images/Splash Screen.jpg" width="300" height="550" align="center">
 
-<img src="images/panduan.jpg" width="300" height="550">
+<img src="images/panduan.jpg" width="300" height="550" align="center">
 
-<img src="images/welcome.jpg" width="300" height="550">
+<img src="images/welcome.jpg" width="300" height="550" align="center">
 
-<img src="images/krs.jpg" width="300" height="550">
+<img src="images/krs.jpg" width="300" height="550" align="center">
